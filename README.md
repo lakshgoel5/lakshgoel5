@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋, This is Laksh Goel</h1>
 <h3 align="center">Sophomore, IIT Delhi</h3>
 
-I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technology Delhi** in the discipline of **Electrical Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
+I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technology Delhi** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
 - 🌱 I’m working as a Machine Learning, LLMs and Databases under IITD Dev Club Summer Project: DEV SUMMER OF CODE'24
 - I'm also exploring several domains like Hacking (Competing in CTFs), SQL database (Learning from kaggle.com), Recommendation Algorithm (Course under Andrew NG) and Economics (Exploring the web)
