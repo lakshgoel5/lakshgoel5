@@ -5,7 +5,7 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
 
 - 🌱 I’m working as a Machine Learning, LLMs and Databases under IITD Dev Club Summer Project: DEV SUMMER OF CODE'24
 - I'm also exploring several domains like Hacking (Competing in CTFs), SQL database (Learning from kaggle.com), Recommendation Algorithm (Course under Andrew NG) and Economics (Exploring the web)
-- 📫 Reach out me at lakshgoel541@gmail.com or visit [my linkedin profile](https://www.linkedin.com/in/laksh-goel-9b4728281/), or text me at **+91 82643 09275**.
+- 📫 Reach out me at lakshgoel541@gmail.com or visit [my linkedin profile](https://www.linkedin.com/in/laksh-goel-9b4728281/).
 
 
 ## Git Repositories
