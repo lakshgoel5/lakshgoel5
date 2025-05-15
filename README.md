@@ -1,20 +1,21 @@
 <h1 align="center">Hi!👋, This is Laksh Goel</h1>
 <h3 align="center">Sophomore, IIT Delhi</h3>
 
-I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technology Delhi** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
+- I am an undergrad at IIT Delhi in the Department of Computer Science and Engineering. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges.
 
-- 🌱 I’m working as a Machine Learning, LLMs and Databases under IITD Dev Club Summer Project: DEV SUMMER OF CODE'24
-- I'm also exploring several domains like Hacking (Competing in CTFs), SQL database (Learning from kaggle.com), Recommendation Algorithm (Course under Andrew NG) and Economics (Exploring the web)
-- 📫 Reach out me at lakshgoel541@gmail.com or visit [my linkedin profile](https://www.linkedin.com/in/laksh-goel-9b4728281/).
+- 💬 Other than the perennial overload of assignments and evaluations, feel free to hit me up for a quick chat or a deep ethical discussion! Contact me at my [LinkedIn](https://www.linkedin.com/in/laksh-goel-9b4728281/) or mail me at lakshgoel541@gmail.com
 
-
+![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshgoel5&hide=issues&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshgoel5&layout=compact&theme=radical)
+<!--
 ## Git Repositories
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lakshgoel5&theme=default&show_icons=true" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lakshgoel5&repo=summer-of-code-2024)](https://github.com/lakshgoel5/summer-of-code-2024)
 </div>
-
+-->
+<!--
 <h2 align="center">Languages, Platforms, Dependencies</h2>
 <p>
 <div align="center">
@@ -29,15 +30,16 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </p>
-
-
+-->
+<!--
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 </p>
-
+-->
+<!--
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -45,7 +47,8 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 </p>
-
+-->
+<!--
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -54,12 +57,15 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 </p>
-
+-->
+<!--
 <p>
 <div align="center">  
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </div>
 </p>
+
+-->
 
 ## Contact Me
 <p>
