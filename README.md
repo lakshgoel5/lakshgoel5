@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋, This is Laksh Goel</h1>
-<h3 align="center">Sophomore, IIT Delhi</h3>
+<h3 align="center">Junior, IIT Delhi</h3>
 
 - I am an undergrad at IIT Delhi in the Department of Computer Science and Engineering. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges.
 
