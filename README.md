@@ -6,7 +6,7 @@
 - 💬 Other than the perennial overload of assignments and evaluations, feel free to hit me up for a quick chat or a deep ethical discussion! Contact me at my [LinkedIn](https://www.linkedin.com/in/laksh-goel-9b4728281/) or mail me at lakshgoel541@gmail.com
 
 ![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshgoel5&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical&rank_icon=github&cache_seconds=7200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshgoel5&layout=compact&theme=radical&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshgoel5&layout=compact&theme=radical&hide=C&theme=radical)
 <!--
 ## Git Repositories
 <div align="center">
